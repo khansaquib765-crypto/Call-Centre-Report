@@ -215,7 +215,7 @@ dashboard.png
 
 The image is displayed at the top of this README using:
 
-![Call Center Dashboard](Call Centre Dashboard.png)
+<img src="Call Centre Dashboard.png" width="100%"><br><br>
 
 Make sure dashboard.png is uploaded to the same folder as
 README.md in the GitHub repository.
